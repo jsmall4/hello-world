@@ -1,1 +1,3 @@
 # hello-world
+
+The first rule of Github is...
